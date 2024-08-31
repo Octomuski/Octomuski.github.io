@@ -20,7 +20,7 @@ github_username: "Octomuski"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
